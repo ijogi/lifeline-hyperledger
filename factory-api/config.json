@@ -1,0 +1,11 @@
+{
+  "channel_name": "mychannel",
+  "smart_contract_name": "contracts",
+  "connection_file": "lifeline2 - Org1_connection.json",
+  "appAdmin": "admin",
+  "appAdminSecret": "adminpw",
+  "orgMSPID": "Org1MSP",
+  "caName": "Org1CA",
+  "userName": "user1",
+  "gatewayDiscovery": { "enabled": "true", "asLocalhost": "true" }
+}
