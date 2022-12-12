@@ -22,7 +22,7 @@
   "dependencies": {
     "@nestjs/common": "^6.10.14",
     "@nestjs/core": "^6.10.14",
-    "@nestjs/platform-express": "^6.10.14",
+    "@nestjs/platform-express": "^9.2.1",
     "fabric-ca-client": "^1.4.8",
     "fabric-contract-api": "^2.0.0",
     "fabric-network": "^1.4.8",
